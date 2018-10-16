@@ -1,0 +1,12 @@
+{% extends 'base.html' %}
+{% block body %}
+	<h1>{{ the_title }}</h1>
+    <h2>{{ the_note }}</h2>
+	<form method='POST' action='/'>
+		<p><input name='color' type='TEXT' width='60'> <input value='Find color' type='SUBMIT'></p>
+	</form>
+	
+	{% block result %}
+	
+	{% endblock %}
+{% endblock %}
