@@ -18,6 +18,7 @@ _F490_
 
 ![p1](https://user-images.githubusercontent.com/33928051/47087645-32a38400-d225-11e8-9101-36932f41323d.png)
 
+![p3](https://user-images.githubusercontent.com/33928051/47093893-c9c30880-d232-11e8-95e6-0a7f967be399.png)
 
 Or RGB in hex
 
